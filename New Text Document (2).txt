@@ -1,0 +1,19 @@
+maven
+
+mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-akmal -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+
+
+C:\Windows\System32\my-akmal\target my-akmal-1.0-SNAPSHOT com\mycompany\app.App
+
+my-akmal\target>java -cp my-akmal-1.0-SNAPSHOT.jar com.mycompany.app.App
+
+=================================================================================================
+
+jenkins  link   https://devopscube.com/install-configure-jenkins-2-centos-redhat-servers/
+
+https://devopscube.com/install-configure-jenkins-2-centos-redhat-servers/
+
+https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch
+
+https://medium.com/avmconsulting-blog/automated-ci-cd-with-jenkins-39b21c7c8035
+
